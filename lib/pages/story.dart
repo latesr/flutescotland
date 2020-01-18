@@ -4,13 +4,12 @@ import 'package:flutter_markdown/flutter_markdown.dart';
 import './page.dart';
 
 const String markdown = """
-# Who are we?
+# __Who are we?__
 The Scottish International Flute Summer School was founded in 1996 by Ruth Morley and Peter Lloyd.  We have grown into a world renowned flute course that offers you the chance to study with some of the world’s leading flute players in an incredibly supportive environment.
-# What do we do?
+# __What do we do?__
 We aim to provide you with inspiration and new ideas that you can use to develop your flute playing.  Our non-competitive ethos ensures an environment that will empower and enable risk-taking!
-
 As an international school there is the exciting opportunity to expand your horizons by spending time with flute players from all over the world!
-# Is it for me?
+# __Is it for me?__
 Are you...
 
 - a music student at a conservatoire or university?
@@ -18,6 +17,12 @@ Are you...
 - at school and considering study on a performance course?
 - an advanced amateur playing for pleasure?  (Minimum recommended standard is grade 5 and above)
 - aged 16 or older?
+
+Then the answer is YES, one of our course options will be suitable for you and can provide a week of fluting that will inspire.
+
+Come for a week and enjoy the results for a lifetime!
+
+*The Scottish International Flute Summer School is a not for profit organisation dedicated to providing the highest quality of flute tuition.*
 
 """;
 
