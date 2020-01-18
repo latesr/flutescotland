@@ -39,7 +39,6 @@ class Story extends Page {
   @override
   Widget build(BuildContext context) {
     final style = MarkdownStyleSheet.fromTheme(Theme.of(context)).copyWith(
-      h1: TextStyle()
       horizontalRuleDecoration: BoxDecoration(
         border: Border.all(
           color: Colors.transparent,
