@@ -49,7 +49,7 @@ class Story extends Page {
 
     return Container(
       alignment: Alignment.center,
-      padding: EdgeInsets.only(top: 80),
+      padding: EdgeInsets.only(top: 40),
       child: FractionallySizedBox(
         widthFactor: 0.8,
         child: Markdown(
